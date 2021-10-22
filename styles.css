@@ -1,3 +1,9 @@
+
+#body-content {
+    background-color: #000000;
+    color: #FFF;
+}
+
 .maincontent {
 	background-color: #000000;
 }
@@ -23,4 +29,13 @@
 	padding-bottom: -10px;
 	display: inline-block;
 	word-wrap: break-word;
+}
+
+.main-link {
+    color: #DD0000;
+    font-size: xx-large;
+    align-content: right;
+    font-weight: 900;
+    text-decoration: underline;
+    padding: 5%;
 }
