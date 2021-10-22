@@ -1,0 +1,26 @@
+.maincontent {
+	background-color: #000000;
+}
+.letter_block {
+	color: #CCCC00;
+	font-size: 15em;
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: -10px;
+	padding-bottom: -10px;
+}
+
+.brick { 
+	padding: 4px !important	;	
+}
+
+.lightText {
+	color: #FFF;
+	font-size: 1em;
+	width: 100%;
+	padding-top: -10px;
+	padding-bottom: -10px;
+	display: inline-block;
+	word-wrap: break-word;
+}
