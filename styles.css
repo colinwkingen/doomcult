@@ -8,13 +8,17 @@
 	background-color: #000000;
 }
 .letter_block {
-	color: #CCCC00;
+	/* color: #CCCC00; */
+	color: #222;
 	font-size: 15em;
 	width: 100%;
 	display: inline-block;
 	vertical-align: middle;
-	padding-top: -10px;
+	padding-top: 50px;
 	padding-bottom: -10px;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	text-shadow: 0 0 15px #FFF
 }
 
 .brick { 
